@@ -1,0 +1,31 @@
+C:\Users\Admin\Desktop\C#\FINAL\bin\Debug\FINAL.exe.config
+C:\Users\Admin\Desktop\C#\FINAL\bin\Debug\FINAL.exe
+C:\Users\Admin\Desktop\C#\FINAL\bin\Debug\FINAL.pdb
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.Form1.resources
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.main.resources
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.exe
+C:\Users\Admin\Desktop\C#\FINAL\obj\Debug\FINAL.pdb
+C:\Users\Admin\Desktop\C#\Final\obj\Debug\FINAL.Clients.resources
+C:\Users\Admin\Desktop\C#\Final\obj\Debug\FINAL.Products.resources
+C:\Users\Admin\Desktop\C#\Final\obj\Debug\FINAL.Import.resources
+C:\Users\Admin\Desktop\C#\Final\obj\Debug\FINAL.Export.resources
+D:\University\Second Year\C#\FinalProject\FINAL\bin\Debug\FINAL.exe.config
+D:\University\Second Year\C#\FinalProject\FINAL\bin\Debug\FINAL.exe
+D:\University\Second Year\C#\FinalProject\FINAL\bin\Debug\FINAL.pdb
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.csproj.AssemblyReference.cache
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.Export.resources
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.Clients.resources
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.Form1.resources
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.Import.resources
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.main.resources
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.Products.resources
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.csproj.GenerateResource.cache
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.exe
+D:\University\Second Year\C#\FinalProject\FINAL\obj\Debug\FINAL.pdb
